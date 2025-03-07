@@ -1,8 +1,0 @@
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'Courier 10,12,15' -Value 'COUREE.FON'
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'Courier 10,12,15 (120)' -Value 'COURFE.FON'
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'MS Serif 8,10,12,14,18,24' -Value 'SERIFEE.FON'
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'MS Serif 8,10,12,14,18,24 (120)' -Value 'SERIFFE.FON'
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'MS Sans Serif 8,10,12,14,18,24' -Value 'SSERIFEE.FON'
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'MS Sans Serif 8,10,12,14,18,24 (120)' -Value 'SSERIFFE.FON'
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'Small Fonts' -Value 'SMALLEE.FON'
-Set-ItemProperty -Path 'HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Fonts' -Name 'Small Fonts (120)' -Value 'SMALLFE.FON'
